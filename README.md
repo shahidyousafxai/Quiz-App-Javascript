@@ -17,3 +17,4 @@
 <img width="467" alt="res" src="https://user-images.githubusercontent.com/66951416/138934304-296fce6d-1322-4b0e-b554-c6e9157f88b8.PNG">
 
 ## Link
+https://shahidyousafxai.github.io/Quiz-App-Javascript/
